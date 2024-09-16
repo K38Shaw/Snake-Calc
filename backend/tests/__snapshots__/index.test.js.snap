@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator Backend Test Suite should have consistent Snake game trigger state 1`] = `
+Calculator {
+  "currentInput": 3838,
+  "snakeGameOpen": true,
+}
+`;
